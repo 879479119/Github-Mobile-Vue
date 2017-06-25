@@ -13,6 +13,9 @@
 
 <style scoped lang="scss">
   div{
-    width: 1rem;
+    width: 100px;
+  }
+  .aaa{
+  	height: 0.556rem;
   }
 </style>
