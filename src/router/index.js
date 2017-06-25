@@ -81,11 +81,11 @@ export default [
         component: Home,
         children: [
           {
-            path: 'commit'
+            path: 'commit',
             component: Hello
           },
           {
-            path: 'file'
+            path: 'file',
             component: Hello
           },
         ]
@@ -95,11 +95,11 @@ export default [
         component: Hello,
         children: [
           {
-            path: ''
+            path: '',
             component: Hello
           },
           {
-            path: 'detail'
+            path: 'detail',
             component: Hello
           },
         ]
@@ -123,23 +123,23 @@ export default [
     component: Hello,
     children: [
       {
-        path: ''
+        path: '',
         component: Hello
       },
       {
-        path: 'repo'
+        path: 'repo',
         component: Hello
       },
       {
-        path: 'commit'
+        path: 'commit',
         component: Hello
       },
       {
-        path: 'user'
+        path: 'user',
         component: Hello
       },
       {
-        path: 'issue'
+        path: 'issue',
         component: Hello
       },
     ]
