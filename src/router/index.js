@@ -1,4 +1,4 @@
-import Hello from '@/components/Hello'
+import Hello from '../components/Hello.vue'
 import Home from "../view/Home/Home.vue"
 
 export default [
@@ -10,7 +10,6 @@ export default [
   //the dashboard part
   {
     path: '/dashboard',
-    name: 'home',
     component: Home,
     children: [
       {
@@ -27,11 +26,12 @@ export default [
       },
     ]
   },
-  //explore andtrending
+  //explore and trending
   {
     path: '/eplore',
     component: Hello
   },
+  //user center and details
   {
     path: '/user',
     component: Hello,
@@ -58,6 +58,7 @@ export default [
       }
     ]
   },
+  //organization
   {
     path: '/org',
     component: Hello,
@@ -72,6 +73,7 @@ export default [
       }
     ]
   },
+  //repository information
   {
     path: '/repo',
     component: Hello,
@@ -81,14 +83,14 @@ export default [
         component: Home,
         children: [
           {
-            path: 'commit',
-            component: Hello
-          },
-          {
             path: 'file',
             component: Hello
           },
         ]
+      },
+      {
+        path: 'commit',
+        component: Home
       },
       {
         path: 'issue',
@@ -114,10 +116,12 @@ export default [
       }
     ]
   },
+  //activity
   {
     path: '/activity',
     component: Hello
   },
+  //search
   {
     path: '/search',
     component: Hello,
@@ -144,5 +148,4 @@ export default [
       },
     ]
   },
-
 ]
