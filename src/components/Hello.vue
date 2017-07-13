@@ -2,14 +2,19 @@
   <div class="hello">
     <h1>{{ abc }}</h1>
     <h2 @click="click">Essential Links</h2>
+    <icon></icon>
   </div>
 </template>
 
 <script>
 import {mapState, mapMutations} from 'vuex'
+import Icon from '../components/Common/Icon/Icon.vue'
 
 export default {
   name: 'hello',
+  components: {
+  	Icon
+  },
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
