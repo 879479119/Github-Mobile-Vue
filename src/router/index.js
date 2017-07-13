@@ -5,7 +5,7 @@ export default [
   //entry route
   {
     path: '/',
-    component: Hello
+    component: Home
   },
   //the dashboard part
   {

@@ -4,11 +4,12 @@
  * @description
  */
 
-
-
+import {
+  CHANGE
+} from "./mutationTypes"
 
 export default {
-  ADD(state, {payload}){
+  [CHANGE](state, {payload}){
     console.info(payload)
     state.login = true
   }

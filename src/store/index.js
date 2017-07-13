@@ -17,8 +17,6 @@ const initialState = {
   ac_file: '',            //the file you are watching
 
   notification: [],       //as the name
-
-
 }
 
 Vue.use(Vuex)
