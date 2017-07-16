@@ -35,6 +35,7 @@
   }
   .w-icon{
     display: inline-block;
+    font-style: normal;
     font-size: 100%;
     font-family: anticon, sans-serif;
   }

@@ -1,24 +1,39 @@
 <template>
   <header class="nav-bar">
     <div class="nav-bar-inner">
-      <button type="button" class="header-button "><icon :type="'star'"></icon></button>
+      <button type="button" class="header-button" @click="showNavHandler"><icon type="bars"></icon></button>
       <div class="nav-bar-title-text">
         <a class="brand-logo-invertocat touchable" href="https://github.com/">
+          <icon type="github"></icon>
         </a>
       </div>
       <a class="bav-bar-notification" href="/notifications">
-        <span class="unread-notifications-indicator"></span>
+        <span class="unread-notifications-indicator">
+          <icon type="notification"></icon>
+        </span>
       </a>
     </div>
+    <pulldown v-show="showNav"></pulldown>
   </header>
 </template>
 
 <script>
+  import Pulldown from "./Pulldown.vue"
 	export default {
+  	components: {
+  		Pulldown
+    },
 		name: '',
 		data(){
-			return {}
-		}
+			return {
+				showNav: false
+      }
+		},
+    methods: {
+			showNavHandler(){
+				this.showNav = !this.showNav
+      }
+    }
 	}
 </script>
 
@@ -29,6 +44,11 @@
     color: rgba(255,255,255,0.75);
     user-select: none;
     background-color: #1e2327;
+
+    i{
+      font-style: normal;
+      color: #fff;
+    }
 
     .nav-bar-inner{
       display: flex;

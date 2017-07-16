@@ -9,7 +9,9 @@
  */
 
 import Vue from "vue"
+import "./index.scss"
 
 import Icon from "./Icon/Icon.vue"
+
 
 Vue.component('icon', Icon)
