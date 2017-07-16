@@ -1,999 +1,994 @@
-/**
- * @author rocksama
- * @created 2017/7/13
- * @description
- */
 export default [
   {
     "name": "w-step-backward",
-    "code": "\\E601"
+    "code": "\uE601"
   },
   {
     "name": "w-step-forward",
-    "code": "\\E600"
+    "code": "\uE600"
   },
   {
     "name": "w-fast-backward",
-    "code": "\\E6C6"
+    "code": "\uE6C6"
   },
   {
     "name": "w-fast-forward",
-    "code": "\\E6C7"
+    "code": "\uE6C7"
   },
   {
     "name": "w-shrink",
-    "code": "\\31"
+    "code": "\uE614"
   },
   {
     "name": "w-arrows-alt",
-    "code": "\\E615"
+    "code": "\uE615"
   },
   {
     "name": "w-down",
-    "code": "\\E61D"
+    "code": "\uE61D"
   },
   {
     "name": "w-up",
-    "code": "\\E61E"
+    "code": "\uE61E"
   },
   {
     "name": "w-left",
-    "code": "\\E620"
+    "code": "\uE620"
   },
   {
     "name": "w-right",
-    "code": "\\E61F"
+    "code": "\uE61F"
   },
   {
     "name": "w-caret-up",
-    "code": "\\E607"
+    "code": "\uE607"
   },
   {
     "name": "w-caret-down",
-    "code": "\\E606"
+    "code": "\uE606"
   },
   {
     "name": "w-caret-left",
-    "code": "\\E605"
+    "code": "\uE605"
   },
   {
     "name": "w-caret-right",
-    "code": "\\E604"
+    "code": "\uE604"
   },
   {
     "name": "w-up-circle",
-    "code": "\\E60A"
+    "code": "\uE60A"
   },
   {
     "name": "w-down-circle",
-    "code": "\\E60B"
+    "code": "\uE60B"
   },
   {
     "name": "w-left-circle",
-    "code": "\\E609"
+    "code": "\uE609"
   },
   {
     "name": "w-right-circle",
-    "code": "\\E608"
+    "code": "\uE608"
   },
   {
     "name": "w-up-circle-o",
-    "code": "\\E60E"
+    "code": "\uE60E"
   },
   {
     "name": "w-down-circle-o",
-    "code": "\\E60F"
+    "code": "\uE60F"
   },
   {
     "name": "w-right-circle-o",
-    "code": "\\E60C"
+    "code": "\uE60C"
   },
   {
     "name": "w-left-circle-o",
-    "code": "\\E60D"
+    "code": "\uE60D"
   },
   {
     "name": "w-double-right",
-    "code": "\\E617"
+    "code": "\uE617"
   },
   {
     "name": "w-double-left",
-    "code": "\\E618"
+    "code": "\uE618"
   },
   {
     "name": "w-verticle-left",
-    "code": "\\E610"
+    "code": "\uE610"
   },
   {
     "name": "w-verticle-right",
-    "code": "\\E611"
+    "code": "\uE611"
   },
   {
     "name": "w-forward",
-    "code": "\\E602"
+    "code": "\uE602"
   },
   {
     "name": "w-backward",
-    "code": "\\E603"
+    "code": "\uE603"
   },
   {
     "name": "w-rollback",
-    "code": "\\E612"
+    "code": "\uE612"
   },
   {
     "name": "w-enter",
-    "code": "\\E6A0"
+    "code": "\uE6A0"
   },
   {
     "name": "w-retweet",
-    "code": "\\E613"
+    "code": "\uE613"
   },
   {
     "name": "w-swap",
-    "code": "\\E642"
+    "code": "\uE642"
   },
   {
     "name": "w-swap-left",
-    "code": "\\E643"
+    "code": "\uE643"
   },
   {
     "name": "w-swap-right",
-    "code": "\\E644"
+    "code": "\uE644"
   },
   {
     "name": "w-arrow-up",
-    "code": "\\E61A"
+    "code": "\uE61A"
   },
   {
     "name": "w-arrow-down",
-    "code": "\\E619"
+    "code": "\uE619"
   },
   {
     "name": "w-arrow-left",
-    "code": "\\E61C"
+    "code": "\uE61C"
   },
   {
     "name": "w-arrow-right",
-    "code": "\\E61B"
+    "code": "\uE61B"
   },
   {
     "name": "w-play-circle",
-    "code": "\\E6D0"
+    "code": "\uE6D0"
   },
   {
     "name": "w-play-circle-o",
-    "code": "\\E6D1"
+    "code": "\uE6D1"
   },
   {
     "name": "w-up-square",
-    "code": "\\E6C8"
+    "code": "\uE6C8"
   },
   {
     "name": "w-down-square",
-    "code": "\\E6C9"
+    "code": "\uE6C9"
   },
   {
     "name": "w-left-square",
-    "code": "\\E6CA"
+    "code": "\uE6CA"
   },
   {
     "name": "w-right-square",
-    "code": "\\E6CB"
+    "code": "\uE6CB"
   },
   {
     "name": "w-up-square-o",
-    "code": "\\E6CF"
+    "code": "\uE6CF"
   },
   {
     "name": "w-down-square-o",
-    "code": "\\E6CE"
+    "code": "\uE6CE"
   },
   {
     "name": "w-left-square-o",
-    "code": "\\E6CD"
+    "code": "\uE6CD"
   },
   {
     "name": "w-right-square-o",
-    "code": "\\E6CC"
+    "code": "\uE6CC"
   },
   {
     "name": "w-login",
-    "code": "\\E657"
+    "code": "\uE657"
   },
   {
     "name": "w-logout",
-    "code": "\\E65A"
+    "code": "\uE65A"
   },
   {
     "name": "w-menu-fold",
-    "code": "\\E658"
+    "code": "\uE658"
   },
   {
     "name": "w-menu-unfold",
-    "code": "\\E679"
+    "code": "\uE679"
   },
   {
     "name": "w-question",
-    "code": "\\E63A"
+    "code": "\uE63A"
   },
   {
     "name": "w-question-circle-o",
-    "code": "\\E63C"
+    "code": "\uE63C"
   },
   {
     "name": "w-question-circle",
-    "code": "\\E63B"
+    "code": "\uE63B"
   },
   {
     "name": "w-plus",
-    "code": "\\E627"
+    "code": "\uE627"
   },
   {
     "name": "w-plus-circle-o",
-    "code": "\\E625"
+    "code": "\uE625"
   },
   {
     "name": "w-plus-circle",
-    "code": "\\E626"
+    "code": "\uE626"
   },
   {
     "name": "w-pause",
-    "code": "\\E63D"
+    "code": "\uE63D"
   },
   {
     "name": "w-pause-circle-o",
-    "code": "\\E63F"
+    "code": "\uE63F"
   },
   {
     "name": "w-pause-circle",
-    "code": "\\E63E"
+    "code": "\uE63E"
   },
   {
     "name": "w-minus",
-    "code": "\\E624"
+    "code": "\uE624"
   },
   {
     "name": "w-minus-circle-o",
-    "code": "\\E623"
+    "code": "\uE623"
   },
   {
     "name": "w-minus-circle",
-    "code": "\\E622"
+    "code": "\uE622"
   },
   {
     "name": "w-plus-square",
-    "code": "\\E6C0"
+    "code": "\uE6C0"
   },
   {
     "name": "w-plus-square-o",
-    "code": "\\E645"
+    "code": "\uE645"
   },
   {
     "name": "w-minus-square",
-    "code": "\\E6C1"
+    "code": "\uE6C1"
   },
   {
     "name": "w-minus-square-o",
-    "code": "\\E621"
+    "code": "\uE621"
   },
   {
     "name": "w-info",
-    "code": "\\E62A"
+    "code": "\uE62A"
   },
   {
     "name": "w-info-circle-o",
-    "code": "\\E629"
+    "code": "\uE629"
   },
   {
     "name": "w-info-circle",
-    "code": "\\E628"
+    "code": "\uE628"
   },
   {
     "name": "w-exclamation",
-    "code": "\\E62B"
+    "code": "\uE62B"
   },
   {
     "name": "w-exclamation-circle-o",
-    "code": "\\E62D"
+    "code": "\uE62D"
   },
   {
     "name": "w-exclamation-circle",
-    "code": "\\E62C"
+    "code": "\uE62C"
   },
   {
     "name": "w-close",
-    "code": "\\E633"
+    "code": "\uE633"
   },
   {
     "name": "w-close-circle",
-    "code": "\\E62E"
+    "code": "\uE62E"
   },
   {
     "name": "w-close-circle-o",
-    "code": "\\E62F"
+    "code": "\uE62F"
   },
   {
     "name": "w-close-square",
-    "code": "\\E6C2"
+    "code": "\uE6C2"
   },
   {
     "name": "w-close-square-o",
-    "code": "\\E6C3"
+    "code": "\uE6C3"
   },
   {
     "name": "w-check",
-    "code": "\\E632"
+    "code": "\uE632"
   },
   {
     "name": "w-check-circle",
-    "code": "\\E630"
+    "code": "\uE630"
   },
   {
     "name": "w-check-circle-o",
-    "code": "\\E631"
+    "code": "\uE631"
   },
   {
     "name": "w-check-square",
-    "code": "\\E6C4"
+    "code": "\uE6C4"
   },
   {
     "name": "w-check-square-o",
-    "code": "\\E6C5"
+    "code": "\uE6C5"
   },
   {
     "name": "w-clock-circle-o",
-    "code": "\\E641"
+    "code": "\uE641"
   },
   {
     "name": "w-clock-circle",
-    "code": "\\E640"
+    "code": "\uE640"
   },
   {
     "name": "w-lock",
-    "code": "\\E67B"
+    "code": "\uE67B"
   },
   {
     "name": "w-unlock",
-    "code": "\\E6BA"
+    "code": "\uE6BA"
   },
   {
     "name": "w-area-chart",
-    "code": "\\E65C"
+    "code": "\uE65C"
   },
   {
     "name": "w-pie-chart",
-    "code": "\\E6B8"
+    "code": "\uE6B8"
   },
   {
     "name": "w-bar-chart",
-    "code": "\\E6BE"
+    "code": "\uE6BE"
   },
   {
     "name": "w-dot-chart",
-    "code": "\\E6BD"
+    "code": "\uE6BD"
   },
   {
     "name": "w-bars",
-    "code": "\\E639"
+    "code": "\uE639"
   },
   {
     "name": "w-book",
-    "code": "\\E637"
+    "code": "\uE637"
   },
   {
     "name": "w-calendar",
-    "code": "\\E6BB"
+    "code": "\uE6BB"
   },
   {
     "name": "w-cloud",
-    "code": "\\E680"
+    "code": "\uE680"
   },
   {
     "name": "w-cloud-download",
-    "code": "\\E682"
+    "code": "\uE682"
   },
   {
     "name": "w-code",
-    "code": "\\E6BF"
+    "code": "\uE6BF"
   },
   {
     "name": "w-code-o",
-    "code": "\\E636"
+    "code": "\uE636"
   },
   {
     "name": "w-copy",
-    "code": "\\E648"
+    "code": "\uE648"
   },
   {
     "name": "w-credit-card",
-    "code": "\\E635"
+    "code": "\uE635"
   },
   {
     "name": "w-delete",
-    "code": "\\E69F"
+    "code": "\uE69F"
   },
   {
     "name": "w-desktop",
-    "code": "\\E6B4"
+    "code": "\uE6B4"
   },
   {
     "name": "w-download",
-    "code": "\\E6B7"
+    "code": "\uE6B7"
   },
   {
     "name": "w-edit",
-    "code": "\\E692"
+    "code": "\uE692"
   },
   {
     "name": "w-ellipsis",
-    "code": "\\E647"
+    "code": "\uE647"
   },
   {
     "name": "w-file",
-    "code": "\\E664"
+    "code": "\uE664"
   },
   {
     "name": "w-file-text",
-    "code": "\\E698"
+    "code": "\uE698"
   },
   {
     "name": "w-file-unknown",
-    "code": "\\E6AF"
+    "code": "\uE6AF"
   },
   {
     "name": "w-file-pdf",
-    "code": "\\E6B3"
+    "code": "\uE6B3"
   },
   {
     "name": "w-file-excel",
-    "code": "\\E6B0"
+    "code": "\uE6B0"
   },
   {
     "name": "w-file-jpg",
-    "code": "\\E69C"
+    "code": "\uE69C"
   },
   {
     "name": "w-file-ppt",
-    "code": "\\E6B1"
+    "code": "\uE6B1"
   },
   {
     "name": "w-file-add",
-    "code": "\\E910"
+    "code": "\uE910"
   },
   {
     "name": "w-folder",
-    "code": "\\E662"
+    "code": "\uE662"
   },
   {
     "name": "w-folder-open",
-    "code": "\\E699"
+    "code": "\uE699"
   },
   {
     "name": "w-folder-add",
-    "code": "\\E914"
+    "code": "\uE914"
   },
   {
     "name": "w-hdd",
-    "code": "\\E69A"
+    "code": "\uE69A"
   },
   {
     "name": "w-frown",
-    "code": "\\E646"
+    "code": "\uE646"
   },
   {
     "name": "w-frown-o",
-    "code": "\\E6A9"
+    "code": "\uE6A9"
   },
   {
     "name": "w-meh",
-    "code": "\\E666"
+    "code": "\uE666"
   },
   {
     "name": "w-meh-o",
-    "code": "\\E667"
+    "code": "\uE667"
   },
   {
     "name": "w-smile",
-    "code": "\\E6A7"
+    "code": "\uE6A7"
   },
   {
     "name": "w-smile-o",
-    "code": "\\E6A8"
+    "code": "\uE6A8"
   },
   {
     "name": "w-inbox",
-    "code": "\\E67A"
+    "code": "\uE67A"
   },
   {
     "name": "w-laptop",
-    "code": "\\E65F"
+    "code": "\uE65F"
   },
   {
     "name": "w-appstore-o",
-    "code": "\\E695"
+    "code": "\uE695"
   },
   {
     "name": "w-appstore",
-    "code": "\\E696"
+    "code": "\uE696"
   },
   {
     "name": "w-line-chart",
-    "code": "\\E65D"
+    "code": "\uE65D"
   },
   {
     "name": "w-link",
-    "code": "\\E65B"
+    "code": "\uE65B"
   },
   {
     "name": "w-mail",
-    "code": "\\E659"
+    "code": "\uE659"
   },
   {
     "name": "w-mobile",
-    "code": "\\E678"
+    "code": "\uE678"
   },
   {
     "name": "w-notification",
-    "code": "\\E677"
+    "code": "\uE677"
   },
   {
     "name": "w-paper-clip",
-    "code": "\\E676"
+    "code": "\uE676"
   },
   {
     "name": "w-picture",
-    "code": "\\E674"
+    "code": "\uE674"
   },
   {
     "name": "w-poweroff",
-    "code": "\\E6D5"
+    "code": "\uE6D5"
   },
   {
     "name": "w-reload",
-    "code": "\\E616"
+    "code": "\uE616"
   },
   {
     "name": "w-search",
-    "code": "\\E670"
+    "code": "\uE670"
   },
   {
     "name": "w-setting",
-    "code": "\\E672"
+    "code": "\uE672"
   },
   {
     "name": "w-share-alt",
-    "code": "\\E671"
+    "code": "\uE671"
   },
   {
     "name": "w-shopping-cart",
-    "code": "\\E668"
+    "code": "\uE668"
   },
   {
     "name": "w-tablet",
-    "code": "\\E66E"
+    "code": "\uE66E"
   },
   {
     "name": "w-tag",
-    "code": "\\E6D2"
+    "code": "\uE6D2"
   },
   {
     "name": "w-tag-o",
-    "code": "\\E6D3"
+    "code": "\uE6D3"
   },
   {
     "name": "w-tags",
-    "code": "\\E67D"
+    "code": "\uE67D"
   },
   {
     "name": "w-tags-o",
-    "code": "\\E67E"
+    "code": "\uE67E"
   },
   {
     "name": "w-to-top",
-    "code": "\\E66C"
+    "code": "\uE66C"
   },
   {
     "name": "w-upload",
-    "code": "\\E6B6"
+    "code": "\uE6B6"
   },
   {
     "name": "w-user",
-    "code": "\\E66A"
+    "code": "\uE66A"
   },
   {
     "name": "w-video-camera",
-    "code": "\\E66B"
+    "code": "\uE66B"
   },
   {
     "name": "w-home",
-    "code": "\\E65E"
+    "code": "\uE65E"
   },
   {
     "name": "w-spin anticon-loading",
-    "code": "\\E64D"
+    "code": "\uE64D"
   },
   {
     "name": "w-loading-3-quarters",
-    "code": "\\E6AE"
+    "code": "\uE6AE"
   },
   {
     "name": "w-cloud-upload-o",
-    "code": "\\E684"
+    "code": "\uE684"
   },
   {
     "name": "w-cloud-download-o",
-    "code": "\\E683"
+    "code": "\uE683"
   },
   {
     "name": "w-cloud-upload",
-    "code": "\\E681"
+    "code": "\uE681"
   },
   {
     "name": "w-cloud-o",
-    "code": "\\E67F"
+    "code": "\uE67F"
   },
   {
     "name": "w-star-o",
-    "code": "\\E661"
+    "code": "\uE661"
   },
   {
     "name": "w-star",
-    "code": "\\E660"
+    "code": "\uE660"
   },
   {
     "name": "w-heart-o",
-    "code": "\\E6A4"
+    "code": "\uE6A4"
   },
   {
     "name": "w-heart",
-    "code": "\\E6A3"
+    "code": "\uE6A3"
   },
   {
     "name": "w-environment",
-    "code": "\\E685"
+    "code": "\uE685"
   },
   {
     "name": "w-environment-o",
-    "code": "\\E686"
+    "code": "\uE686"
   },
   {
     "name": "w-eye",
-    "code": "\\E687"
+    "code": "\uE687"
   },
   {
     "name": "w-eye-o",
-    "code": "\\E688"
+    "code": "\uE688"
   },
   {
     "name": "w-camera",
-    "code": "\\E689"
+    "code": "\uE689"
   },
   {
     "name": "w-camera-o",
-    "code": "\\E68A"
+    "code": "\uE68A"
   },
   {
     "name": "w-save",
-    "code": "\\E669"
+    "code": "\uE669"
   },
   {
     "name": "w-team",
-    "code": "\\E66D"
+    "code": "\uE66D"
   },
   {
     "name": "w-solution",
-    "code": "\\E66F"
+    "code": "\uE66F"
   },
   {
     "name": "w-phone",
-    "code": "\\E675"
+    "code": "\uE675"
   },
   {
     "name": "w-filter",
-    "code": "\\E663"
+    "code": "\uE663"
   },
   {
     "name": "w-exception",
-    "code": "\\E665"
+    "code": "\uE665"
   },
   {
     "name": "w-export",
-    "code": "\\E691"
+    "code": "\uE691"
   },
   {
     "name": "w-customer-service",
-    "code": "\\E634"
+    "code": "\uE634"
   },
   {
     "name": "w-qrcode",
-    "code": "\\E67C"
+    "code": "\uE67C"
   },
   {
     "name": "w-scan",
-    "code": "\\E697"
+    "code": "\uE697"
   },
   {
     "name": "w-like",
-    "code": "\\E64C"
+    "code": "\uE64C"
   },
   {
     "name": "w-like-o",
-    "code": "\\E69D"
+    "code": "\uE69D"
   },
   {
     "name": "w-dislike",
-    "code": "\\E64B"
+    "code": "\uE64B"
   },
   {
     "name": "w-dislike-o",
-    "code": "\\E69E"
+    "code": "\uE69E"
   },
   {
     "name": "w-message",
-    "code": "\\E6AB"
+    "code": "\uE6AB"
   },
   {
     "name": "w-pay-circle",
-    "code": "\\E6A5"
+    "code": "\uE6A5"
   },
   {
     "name": "w-pay-circle-o",
-    "code": "\\E6A6"
+    "code": "\uE6A6"
   },
   {
     "name": "w-calculator",
-    "code": "\\E6AA"
+    "code": "\uE6AA"
   },
   {
     "name": "w-pushpin",
-    "code": "\\E6A2"
+    "code": "\uE6A2"
   },
   {
     "name": "w-pushpin-o",
-    "code": "\\E6A1"
+    "code": "\uE6A1"
   },
   {
     "name": "w-bulb",
-    "code": "\\E649"
+    "code": "\uE649"
   },
   {
     "name": "w-select",
-    "code": "\\E64A"
+    "code": "\uE64A"
   },
   {
     "name": "w-switcher",
-    "code": "\\E913"
+    "code": "\uE913"
   },
   {
     "name": "w-rocket",
-    "code": "\\E90F"
+    "code": "\uE90F"
   },
   {
     "name": "w-bell",
-    "code": "\\E64E"
+    "code": "\uE64E"
   },
   {
     "name": "w-disconnect",
-    "code": "\\E64F"
+    "code": "\uE64F"
   },
   {
     "name": "w-database",
-    "code": "\\E650"
+    "code": "\uE650"
   },
   {
     "name": "w-compass",
-    "code": "\\E6DB"
+    "code": "\uE6DB"
   },
   {
     "name": "w-barcode",
-    "code": "\\E652"
+    "code": "\uE652"
   },
   {
     "name": "w-hourglass",
-    "code": "\\E653"
+    "code": "\uE653"
   },
   {
     "name": "w-key",
-    "code": "\\E654"
+    "code": "\uE654"
   },
   {
     "name": "w-flag",
-    "code": "\\E655"
+    "code": "\uE655"
   },
   {
     "name": "w-layout",
-    "code": "\\E656"
+    "code": "\uE656"
   },
   {
     "name": "w-printer",
-    "code": "\\E673"
+    "code": "\uE673"
   },
   {
     "name": "w-sound",
-    "code": "\\E6E9"
+    "code": "\uE6E9"
   },
   {
     "name": "w-usb",
-    "code": "\\E6D7"
+    "code": "\uE6D7"
   },
   {
     "name": "w-skin",
-    "code": "\\E6D8"
+    "code": "\uE6D8"
   },
   {
     "name": "w-tool",
-    "code": "\\E6D9"
+    "code": "\uE6D9"
   },
   {
     "name": "w-sync",
-    "code": "\\E6DA"
+    "code": "\uE6DA"
   },
   {
     "name": "w-wifi",
-    "code": "\\E6D6"
+    "code": "\uE6D6"
   },
   {
     "name": "w-car",
-    "code": "\\E6DC"
+    "code": "\uE6DC"
   },
   {
     "name": "w-schedule",
-    "code": "\\E6DF"
+    "code": "\uE6DF"
   },
   {
     "name": "w-user-add",
-    "code": "\\E6ED"
+    "code": "\uE6ED"
   },
   {
     "name": "w-user-delete",
-    "code": "\\E6E0"
+    "code": "\uE6E0"
   },
   {
     "name": "w-usergroup-add",
-    "code": "\\E6DD"
+    "code": "\uE6DD"
   },
   {
     "name": "w-usergroup-delete",
-    "code": "\\E6E1"
+    "code": "\uE6E1"
   },
   {
     "name": "w-man",
-    "code": "\\E6E2"
+    "code": "\uE6E2"
   },
   {
     "name": "w-woman",
-    "code": "\\E6EC"
+    "code": "\uE6EC"
   },
   {
     "name": "w-shop",
-    "code": "\\E6E3"
+    "code": "\uE6E3"
   },
   {
     "name": "w-gift",
-    "code": "\\E6E4"
+    "code": "\uE6E4"
   },
   {
     "name": "w-idcard",
-    "code": "\\E6E5"
+    "code": "\uE6E5"
   },
   {
     "name": "w-medicine-box",
-    "code": "\\E6E6"
+    "code": "\uE6E6"
   },
   {
     "name": "w-red-envelope",
-    "code": "\\E6E7"
+    "code": "\uE6E7"
   },
   {
     "name": "w-coffee",
-    "code": "\\E6E8"
+    "code": "\uE6E8"
   },
   {
     "name": "w-copyright",
-    "code": "\\E6DE"
+    "code": "\uE6DE"
   },
   {
     "name": "w-trademark",
-    "code": "\\E651"
+    "code": "\uE651"
   },
   {
     "name": "w-safety",
-    "code": "\\E6EA"
+    "code": "\uE6EA"
   },
   {
     "name": "w-wallet",
-    "code": "\\E6EB"
+    "code": "\uE6EB"
   },
   {
     "name": "w-bank",
-    "code": "\\E6EE"
+    "code": "\uE6EE"
   },
   {
     "name": "w-trophy",
-    "code": "\\E6EF"
+    "code": "\uE6EF"
   },
   {
     "name": "w-contacts",
-    "code": "\\E6F0"
+    "code": "\uE6F0"
   },
   {
     "name": "w-global",
-    "code": "\\E6F1"
+    "code": "\uE6F1"
   },
   {
     "name": "w-shake",
-    "code": "\\E94F"
+    "code": "\uE94F"
   },
   {
     "name": "w-api",
-    "code": "\\E951"
+    "code": "\uE951"
   },
   {
     "name": "w-fork",
-    "code": "\\E6F2"
+    "code": "\uE6F2"
   },
   {
     "name": "w-android",
-    "code": "\\E938"
+    "code": "\uE938"
   },
   {
     "name": "w-android-o",
-    "code": "\\E68D"
+    "code": "\uE68D"
   },
   {
     "name": "w-apple",
-    "code": "\\E68C"
+    "code": "\uE68C"
   },
   {
     "name": "w-apple-o",
-    "code": "\\E6D4"
+    "code": "\uE6D4"
   },
   {
     "name": "w-windows",
-    "code": "\\E68B"
+    "code": "\uE68B"
   },
   {
     "name": "w-windows-o",
-    "code": "\\E6BC"
+    "code": "\uE6BC"
   },
   {
     "name": "w-ie",
-    "code": "\\E69B"
+    "code": "\uE69B"
   },
   {
     "name": "w-chrome",
-    "code": "\\E6AC"
+    "code": "\uE6AC"
   },
   {
     "name": "w-github",
-    "code": "\\E6AD"
+    "code": "\uE6AD"
   },
   {
     "name": "w-aliwangwang",
-    "code": "\\E68E"
+    "code": "\uE68E"
   },
   {
     "name": "w-aliwangwang-o",
-    "code": "\\E68F"
+    "code": "\uE68F"
   },
   {
     "name": "w-dingding",
-    "code": "\\E923"
+    "code": "\uE923"
   },
   {
     "name": "w-dingding-o",
-    "code": "\\E925"
+    "code": "\uE925"
   },
   {
     "name": "w-github",
-    "code": "\\E6AD"
+    "code": "\uE6AD"
   },
   {
     "name": "w-link",
-    "code": "\\E65B"
+    "code": "\uE65B"
   },
   {
     "name": "w-customer-service",
-    "code": "\\E634"
+    "code": "\uE634"
   }
 ]

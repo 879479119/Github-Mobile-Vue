@@ -8,6 +8,9 @@ import routes from "./router";
 import "./config/initRem"
 import store from "./store"
 
+import "./components/Common"
+import "normalize.css"
+
 Vue.config.productionTip = false
 Vue.use(Router)
 

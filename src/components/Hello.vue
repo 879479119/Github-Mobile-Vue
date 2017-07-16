@@ -1,19 +1,22 @@
 <template>
   <div class="hello">
+    <t></t>
     <h1>{{ abc }}</h1>
     <h2 @click="click">Essential Links</h2>
-    <icon></icon>
+    <icon :type="'star-o'"></icon>
   </div>
 </template>
 
 <script>
 import {mapState, mapMutations} from 'vuex'
 import Icon from '../components/Common/Icon/Icon.vue'
+import Header from '../components/Common/Header/index.vue'
 
 export default {
   name: 'hello',
   components: {
-  	Icon
+  	Icon,
+    t: Header
   },
   data () {
     return {
