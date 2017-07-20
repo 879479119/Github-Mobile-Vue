@@ -12,6 +12,9 @@ import Vue from "vue"
 import "./index.scss"
 
 import Icon from "./Icon/Icon.vue"
-
+import Button from "./Button/Button.vue"
+import Search from "./Input/Search.vue"
 
 Vue.component('icon', Icon)
+Vue.component('btn', Button)
+Vue.component('search', Search)

@@ -1,22 +1,24 @@
 <template>
   <div class="hello">
-    <t></t>
+    <n :nav="['a','b','c']" :baseUrl="'/a/s'"></n>
     <h1>{{ abc }}</h1>
+    <search></search>
     <h2 @click="click">Essential Links</h2>
     <icon :type="'star-o'"></icon>
+    <btn><icon type="github"></icon>i am your father</btn>
   </div>
 </template>
 
 <script>
 import {mapState, mapMutations} from 'vuex'
-import Icon from '../components/Common/Icon/Icon.vue'
 import Header from '../components/Common/Header/index.vue'
+import Nav from '../components/Common/Header/Nav.vue'
 
 export default {
   name: 'hello',
   components: {
-  	Icon,
-    t: Header
+    t: Header,
+    n: Nav
   },
   data () {
     return {

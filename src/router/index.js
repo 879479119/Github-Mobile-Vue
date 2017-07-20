@@ -28,7 +28,7 @@ export default [
   },
   //explore and trending
   {
-    path: '/eplore',
+    path: '/explore',
     component: Hello
   },
   //user center and details
