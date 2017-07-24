@@ -1,11 +1,13 @@
 <template>
   <div class="hello">
     <n :nav="['a','b','c']" :baseUrl="'/a/s'"></n>
+    <switcher></switcher>
     <h1>{{ abc }}</h1>
     <search></search>
     <h2 @click="click">Essential Links</h2>
     <icon :type="'star-o'"></icon>
     <btn><icon type="github"></icon>i am your father</btn>
+    <bubble></bubble>
   </div>
 </template>
 
