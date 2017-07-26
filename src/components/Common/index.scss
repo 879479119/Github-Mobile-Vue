@@ -10,12 +10,22 @@ a{
   text-decoration: none;
 }
 
+html{
+  font-size: 14px;
+}
+
 body{
   color: #24292e;
   background-color: #fafbfc;
+  font-size: 0.6rem;
 }
 
 hr {
   background: #e1e4e8;
   border-color: transparent;
 }
+
+button{
+  outline: none;
+}
+

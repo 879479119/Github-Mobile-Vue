@@ -61,5 +61,11 @@
         }
       }
     }
+    .bubble-actions {
+      display: table;
+      width: 100%;
+      text-align: center;
+      table-layout: fixed;
+    }
   }
 </style>

@@ -9,6 +9,11 @@
     <btn><icon type="github"></icon>i am your father</btn>
     <bubble></bubble>
     <p>{{flag}}</p>
+    <btn-group>
+      <btn>123</btn>
+      <btn>123</btn>
+    </btn-group>
+    <bubble-disabled></bubble-disabled>
   </div>
 </template>
 
