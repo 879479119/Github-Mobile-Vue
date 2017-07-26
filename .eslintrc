@@ -8,7 +8,7 @@
   "rules": {
     "no-restricted-imports": "warn",
     "quotes": "off",
-    "no-console":"off",
+    "no-console":"warn",
     "no-unused-vars":"off",
     "no-unreachable":"off",
     "no-redeclare":"warn",
