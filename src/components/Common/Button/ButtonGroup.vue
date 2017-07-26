@@ -4,13 +4,28 @@
 
 <script>
 	export default {
-		name: '',
-		data(){
-			return {}
-		}
+	  components: {
+
+    },
+	  props: {
+
+    },
+    data(){
+      return {}
+    },
+    computed: {
+
+    },
+    methods: {
+
+    },
+    mounted(){
+
+    },
+
 	}
 </script>
 
-<style scoped>
+<style lang="scss">
 
 </style>
